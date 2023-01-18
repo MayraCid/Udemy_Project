@@ -37,6 +37,6 @@ Función describe | 0.031s | 0.59s | 1.17s
 Consulta de categorías | 16.9s | 2.0s | 0.15s
 Gráfica categorías | 0.08s | 10.30s | 2.74s
 
-De la tabla, se tiene que pandas realiza las funciones de manera rápida con una sintáxis sencilla. Sin embargo, cuando se trata de consultas el tiempo que le toma es más grande y quienes tienen una mejora en ese aspecto son pyspark y koalas. Respecto a la sintaxis de estos dos últimos, es muy parecida ya que koalas de cierta manera trabaja con pyspark e incluso para las versiones más actuales ya se incluye "Koalas" como un módulo en pyspark y se llama pyspark.pandas que tiene los beneficios de pandas y koalas
+De la tabla, se tiene que pandas realiza las funciones de manera rápida con una sintáxis sencilla. Sin embargo, cuando se trata de consultas el tiempo que le toma es más grande y quienes tienen una mejora en ese aspecto son pyspark y koalas. Respecto a la sintaxis de estos dos últimos, es muy parecida ya que koalas de cierta manera trabaja con pyspark e incluso para las versiones más actuales ya se incluye "Koalas" como un módulo en pyspark y se llama pyspark.pandas que tiene los beneficios de pandas y koalas.
 
 
