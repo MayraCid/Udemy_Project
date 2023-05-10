@@ -22,8 +22,7 @@ Las tareas que se hicieron con el archivo fueron las siguientes:
 11. Consulta de el número de cursos que Udemy ofrecio por año
 12. Gráfica de cursos por año
 
-Para cada tarea se obtuvieron los siguientes tiempos:
-
+Para cada tarea se adquirieron los siguientes tiempos:
 ### Tiempos 
 
  Tarea | pandas| pyspark | Koalas
